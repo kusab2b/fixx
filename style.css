@@ -1,0 +1,31 @@
+.nap2018{
+width: 435px;
+height: 254px;
+z-index: 6;
+position: absolute;
+}
+.open{
+    width: 558px;
+    height: 254px;
+    left: 371px;
+    z-index: 3;
+    position: relative;
+}
+.tomorrow{
+    width: 421px;
+    height: 254px;
+    left: 859px;
+    z-index: 4;
+    position: absolute;
+}
+
+p{
+    color:#ffffff;
+    left: 380px;
+    bottom: 90px;
+     size: 1px;
+    z-index: 7;
+    position: relative;
+   
+    
+}
